@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392564085969",
+    "project_id": "mi-trace-18",
+    "storage_bucket": "mi-trace-18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392564085969:android:1972f04e758ced89af61f0",
+        "android_client_info": {
+          "package_name": "com.example.mitrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392564085969-roe5453rkm4na22kptflul82fbv39bdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90P1BEYTlXgjyj6M5X4EBWAPtjdP77tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392564085969-roe5453rkm4na22kptflul82fbv39bdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
